@@ -8,10 +8,14 @@ class User:
     def name(this):
         return this.__name
     
+    def ahed(self):
+        print("Hi")
+    
 
 
 u1= User("Ahed","123")
 print(u1.name())
+u1.ahed()
 
 
 
