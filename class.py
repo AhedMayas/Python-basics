@@ -16,6 +16,7 @@ class User:
 u1= User("Ahed","123")
 print(u1.name())
 u1.ahed()
+#end of file
 
 
 
